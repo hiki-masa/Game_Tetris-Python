@@ -1,0 +1,5 @@
+*.sln
+*.pyproj
+
+.vs/
+tetris/__pycache__/
